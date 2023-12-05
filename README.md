@@ -1,5 +1,5 @@
 # Google-Colab-Trafik-Levhalari-Taniyan-Makine-Ogrenmesi
-Google Colab kullanarak trafik levhalarını tanıyan bir model dosyası oluşturma ve daha sonra bu modeli kullanarak python kodunda test etme
+Google Colab kullanarak trafik levhalarını tanıyan bir model dosyası oluşturma ve daha sonra bu modeli kullanarak Python kodunda test etme.
 
 
 ![Python Görüntüsü](https://github.com/AndacAkyuz/Google-Colab-Trafik-Levhalari-Taniyan-Makine-Ogrenmesi/assets/91327557/00719d19-909e-4269-8001-891165a8c109)
