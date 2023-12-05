@@ -1,0 +1,5 @@
+model.save("Trafic_signs_model.h5")
+
+from google.colab import files
+
+files.download("Trafic_signs_model.h5")
