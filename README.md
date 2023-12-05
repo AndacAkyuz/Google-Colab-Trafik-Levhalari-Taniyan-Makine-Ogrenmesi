@@ -5,7 +5,6 @@ Program Görüntüsü
 (https://github.com/AndacAkyuz/Google-Colab-Trafik-Levhalari-Taniyan-Makine-Ogrenmesi/assets/91327557/5dcb745e-842c-43fe-b387-b53ef616757d)
 
 h5 Modelinin Başarı Eğrileri
-Epoch
 (https://github.com/AndacAkyuz/Google-Colab-Trafik-Levhalari-Taniyan-Makine-Ogrenmesi/assets/91327557/118968df-3fe0-4ebe-96ef-f074290ca40a)
 Accuracy
 (https://github.com/AndacAkyuz/Google-Colab-Trafik-Levhalari-Taniyan-Makine-Ogrenmesi/assets/91327557/4e573b4e-9475-4740-8095-e1292d224ed6)
